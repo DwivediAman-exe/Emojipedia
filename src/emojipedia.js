@@ -28,3 +28,5 @@ const emojipedia = [
       "Huge glasses, awkward smile and buck teeth. Used humorously or ironically for nerds or to express how smart you are. Stereotype of a nerd; a smart but funny-dressed person with social deficits."
   }
 ];
+
+export default emojipedia;
